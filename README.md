@@ -1,11 +1,5 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# 👨‍💻SoloPoket Users Page
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+![Screen Shot 2022-06-16 at 12 15 22 AM](https://user-images.githubusercontent.com/73257550/173990032-1545a1b0-1300-49df-aa9f-44c3887d3d59.png)
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Token holders of SoloPoket can vote upon proposals for holding the governance token!
